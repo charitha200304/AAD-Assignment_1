@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>life_ecommerce_assignment</artifactId>
+    <artifactId>FurniLife_ecommerce_assignment</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>life_ecommerce_assignment</name>
     <packaging>war</packaging>
